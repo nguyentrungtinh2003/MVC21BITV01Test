@@ -18,25 +18,27 @@ namespace MVCMidterm.Controllers
         {
             // Truy vấn tất cả khách hàng
             var khachHangs = _context.KhachHangs.ToList();
-
-            // Truyền dữ liệu cho view
             return View(khachHangs);
         }
         public IActionResult Create()
         {
-            return View(); // Hiển thị form Create.cshtml
+            var thanhPhoList = _context.ThanhPhos.ToList();
+            ViewBag.ThanhPhoList = new SelectList(thanhPhoList, "MaThanhPho", "TenThanhPho");
+            return View();
         }
 
         [HttpPost]
         public IActionResult Create(KhachHang khachHang)
         {
-            if (ModelState.IsValid)
+            if (ModelState.IsValid) // Check for model validation
             {
                 _context.Add(khachHang);
                 _context.SaveChanges();
                 TempData["successMessage"] = "Thêm mới khách hàng thành công!";
-                return View();
+                return RedirectToAction("Index");
             }
+
+            // Display the view with validation errors
             return View(khachHang);
         }
     }
