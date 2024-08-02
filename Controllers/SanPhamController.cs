@@ -43,5 +43,9 @@ namespace MVC21BITV01Test.Controllers
             TempData["SuccessMessage"] = "Sản phẩm đã được thêm thành công!";
             return RedirectToAction("Create");
         }
+
+
+
+
     }
 }   
