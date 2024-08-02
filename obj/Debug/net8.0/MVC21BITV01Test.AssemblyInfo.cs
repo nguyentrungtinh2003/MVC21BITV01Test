@@ -14,15 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVC21BITV01Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4ca6bf3478412e3ac41aaf786588fe88301310b")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5fd27d66c15ba385697867a8b2807e4dd98c4a0")]
->>>>>>> af86836e8e1a0c301f6ed0672eed034e34cd5ad8
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af86836e8e1a0c301f6ed0672eed034e34cd5ad8")]
->>>>>>> 09b9968 (Create header layout)
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12b6a5e1cdce96bb8fe5fe0ea4f87f475e66ef28")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVC21BITV01Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVC21BITV01Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

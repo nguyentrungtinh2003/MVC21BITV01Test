@@ -26,13 +26,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\MVC21BITV01Test
 build_property._RazorSourceGeneratorDebug = 
 
-<<<<<<< HEAD
-[C:/Users/asus/Downloads/MVC21BITV01Test/Views/DonHang/Details.cshtml]
+[D:/MVC21BITV01Test/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MVC21BITV01Test/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MVC21BITV01Test/Views/DonHang/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9uSGFuZ1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asus/Downloads/MVC21BITV01Test/Views/Home/Index.cshtml]
-=======
 [D:/MVC21BITV01Test/Views/HoaDons/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,7 +59,6 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/MVC21BITV01Test/Views/Home/Index.cshtml]
->>>>>>> af86836e8e1a0c301f6ed0672eed034e34cd5ad8
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
