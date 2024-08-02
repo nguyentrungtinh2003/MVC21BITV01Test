@@ -4,30 +4,30 @@
         @TempData["successMessage"]
     </div>
 }
-<h1>Thêm mới khách hàng</h1>
+<div class="container mt-5">
+    <h1 class="mb-4">Thêm mới khách hàng</h1>
 
-<form method="post" asp-action="Create">
-    <div class="form-group">
-        <label for="MaKh">Mã khách hàng:</label>
-        <input type="text" name="MaKh" id="MaKh" class="form-control" />
-    </div>
-    <div class="form-group">
-        <label for="TenCty">Tên công ty:</label>
-        <input type="text" name="TenCty" id="TenCty" class="form-control" />
-    </div>
-    <div class="form-group">
-        <label for="DiaChi">Địa chỉ:</label>
-        <input type="text" name="DiaChi" id="DiaChi" class="form-control" />
-    </div>
-    <div class="form-group">
-        <label  
-               for="DienThoai">Điện thoại:</label>
-        <input type="text" name="DienThoai" id="DienThoai" class="form-control"   />
-    </div>
-    <div class="form-group">
-        <label  
-               for="ThanhPho">Thành Phố:</label>
-        <input type="text" name="ThanhPho" id="ThanhPho" class="form-control"   />
-    </div>
-    <button type="submit" class="btn btn-primary">Thêm mới</button>
-</form>
+    <form method="post" asp-action="Create">
+        <div class="form-group mb-3">
+            <label for="MaKh" class="form-label">Mã khách hàng:</label>
+            <input type="text" name="MaKh" id="MaKh" class="form-control" />
+        </div>
+        <div class="form-group mb-3">
+            <label for="TenCty" class="form-label">Tên công ty:</label>
+            <input type="text" name="TenCty" id="TenCty" class="form-control" />
+        </div>
+        <div class="form-group mb-3">
+            <label for="DiaChi" class="form-label">Địa chỉ:</label>
+            <input type="text" name="DiaChi" id="DiaChi" class="form-control" />
+        </div>
+        <div class="form-group mb-3">
+            <label for="DienThoai" class="form-label">Điện thoại:</label>
+            <input type="text" name="DienThoai" id="DienThoai" class="form-control" />
+        </div>
+        <div class="form-group mb-3">
+            <label for="ThanhPho" class="form-label">Thành Phố:</label>
+            <input type="text" name="ThanhPho" id="ThanhPho" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Thêm mới</button>
+    </form>
+</div>

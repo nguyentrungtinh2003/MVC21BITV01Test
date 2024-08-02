@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "D:\\MVC21BITV01Test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\views\\donhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:views\\donhang\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\models\\hoadondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\models\\hoadondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:models\\hoadondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,19 +59,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MVC21BITV01Test\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
+              "ToolTip": "D:\\MVC21BITV01Test\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T03:09:02.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC21BITV01Test\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\MVC21BITV01Test\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T03:08:24.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Views\\DonHang\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\DonHang\\Details.cshtml",
               "ToolTip": "D:\\MVC21BITV01Test\\Views\\DonHang\\Details.cshtml",
               "RelativeToolTip": "Views\\DonHang\\Details.cshtml",
-              "ViewState": "AQIAABYAAAAAAAAAAAAkwCsAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwCMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-02T03:04:37.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DonHangController.cs",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Controllers\\DonHangController.cs",
               "RelativeDocumentMoniker": "Controllers\\DonHangController.cs",
@@ -71,12 +105,11 @@
               "RelativeToolTip": "Controllers\\DonHangController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T03:03:45.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T03:03:45.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HoaDonDetailsViewModel.cs",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Models\\HoaDonDetailsViewModel.cs",
               "RelativeDocumentMoniker": "Models\\HoaDonDetailsViewModel.cs",
@@ -84,8 +117,7 @@
               "RelativeToolTip": "Models\\HoaDonDetailsViewModel.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T03:03:22.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T03:03:22.176Z"
             }
           ]
         },

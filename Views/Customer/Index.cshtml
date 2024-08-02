@@ -1,31 +1,33 @@
-@model IEnumerable<MVCMidterm.Data.KhachHang>  // Model is a list of KhachHang objects
+@model IEnumerable<MVCMidterm.Data.KhachHang>
 
 @{
     ViewData["Title"] = "Danh sách khách hàng";
 }
 
-<h2>Danh sách khách hàng</h2>
+<div class="container mt-5">
+    <h2 class="mb-4">Danh sách khách hàng</h2>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Mã khách hàng</th>
-            <th>Tên công ty</th>
-            <th>Địa chỉ</th>
-            <th>Điện thoại</th>
-            <th>Thành phố</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var khachHang in Model)
-        {
+    <table class="table table-striped table-bordered">
+        <thead class="thead-dark">
             <tr>
-                <td>@khachHang.MaKh</td>
-                <td>@khachHang.TenCty</td>
-                <td>@khachHang.DiaChi</td>
-                <td>@khachHang.DienThoai</td>
-                <td>@khachHang.ThanhPho</td>
+                <th>Mã khách hàng</th>
+                <th>Tên công ty</th>
+                <th>Địa chỉ</th>
+                <th>Điện thoại</th>
+                <th>Thành phố</th>
             </tr>
-        }
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            @foreach (var khachHang in Model)
+            {
+                <tr>
+                    <td>@khachHang.MaKh</td>
+                    <td>@khachHang.TenCty</td>
+                    <td>@khachHang.DiaChi</td>
+                    <td>@khachHang.DienThoai</td>
+                    <td>@khachHang.ThanhPho</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
