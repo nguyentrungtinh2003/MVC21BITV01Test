@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace MVCMidterm.Data;
+namespace MVC21BITV01Test.Data;
 
 public partial class KhachHang
 {
