@@ -3,56 +3,67 @@
   "WorkspaceRootPath": "D:\\MVC21BITV01Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\data\\qlbanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:data\\qlbanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\wwwroot\\hinhanh\\sanpham\\screenshot 2024-05-20 101123.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:wwwroot\\hinhanh\\sanpham\\screenshot 2024-05-20 101123.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\SourceServer\\664b5051e8d5a1715f61bdb961a5481915f148b98f1a58a4c3e2856a547ea8ec\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\wwwroot\\hinhanh\\sanpham\\\u1EA3nh1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:wwwroot\\hinhanh\\sanpham\\\u1EA3nh1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\wwwroot\\hinhanh\\sanpham\\_24116732-eec9-4c16-af03-f8b719921eff.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:wwwroot\\hinhanh\\sanpham\\_24116732-eec9-4c16-af03-f8b719921eff.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\data\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:data\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\data\\qlbanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:data\\qlbanhangcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|d:\\mvc21bitv01test\\views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:views\\sanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:views\\hoadons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\wwwroot\\hinhanh\\sanpham\\screenshot 2024-05-20 101123.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:wwwroot\\hinhanh\\sanpham\\screenshot 2024-05-20 101123.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\wwwroot\\hinhanh\\sanpham\\\u1EA3nh1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:wwwroot\\hinhanh\\sanpham\\\u1EA3nh1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\wwwroot\\hinhanh\\sanpham\\_24116732-eec9-4c16-af03-f8b719921eff.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:wwwroot\\hinhanh\\sanpham\\_24116732-eec9-4c16-af03-f8b719921eff.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:data\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\data\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:data\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:data\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|D:\\MVC21BITV01Test\\views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E569291-86B1-4EFC-98A6-F7ECE207DC25}|MVC21BITV01Test.csproj|solutionrelative:views\\hoadons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,19 +102,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MVC21BITV01Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MVC21BITV01Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T02:47:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\SourceServer\\664b5051e8d5a1715f61bdb961a5481915f148b98f1a58a4c3e2856a547ea8ec\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\SourceServer\\664b5051e8d5a1715f61bdb961a5481915f148b98f1a58a4c3e2856a547ea8ec\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:38:00.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MVC21BITV01Test\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\MVC21BITV01Test\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T02:29:57.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Views\\SanPham\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\SanPham\\Create.cshtml",
               "ToolTip": "D:\\MVC21BITV01Test\\Views\\SanPham\\Create.cshtml",
               "RelativeToolTip": "Views\\SanPham\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-02T02:23:15.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Views\\HoaDons\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\HoaDons\\Create.cshtml",
@@ -116,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Screenshot 2024-05-20 101123.png - PNG [765x675, 32 bit, PNG]",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\Screenshot 2024-05-20 101123.png",
               "RelativeDocumentMoniker": "wwwroot\\HinhAnh\\SanPham\\Screenshot 2024-05-20 101123.png",
@@ -128,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "\u1EA2nh1.png - PNG [381x349, 32 bit, PNG]",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\\u1EA2nh1.png",
               "RelativeDocumentMoniker": "wwwroot\\HinhAnh\\SanPham\\\u1EA2nh1.png",
@@ -140,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "_24116732-eec9-4c16-af03-f8b719921eff.jpg - Bitmap [1024x1024, 24 bit, JPG]",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\_24116732-eec9-4c16-af03-f8b719921eff.jpg",
               "RelativeDocumentMoniker": "wwwroot\\HinhAnh\\SanPham\\_24116732-eec9-4c16-af03-f8b719921eff.jpg",
@@ -152,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -165,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "KhachHang.cs",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Data\\KhachHang.cs",
               "RelativeDocumentMoniker": "Data\\KhachHang.cs",
@@ -178,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "SanPham.cs",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Data\\SanPham.cs",
               "RelativeDocumentMoniker": "Data\\SanPham.cs",
@@ -191,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "HoaDon.cs",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Data\\HoaDon.cs",
               "RelativeDocumentMoniker": "Data\\HoaDon.cs",
@@ -204,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Views\\HoaDons\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\HoaDons\\Edit.cshtml",
@@ -217,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "HoaDonsController.cs",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Controllers\\HoaDonsController.cs",
               "RelativeDocumentMoniker": "Controllers\\HoaDonsController.cs",
@@ -230,25 +278,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "QlbanHangContext.cs",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Data\\QlbanHangContext.cs",
               "RelativeDocumentMoniker": "Data\\QlbanHangContext.cs",
               "ToolTip": "D:\\MVC21BITV01Test\\Data\\QlbanHangContext.cs",
               "RelativeToolTip": "Data\\QlbanHangContext.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAIwCMAAAA0AAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wBYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T01:49:35.968Z"
+              "WhenOpened": "2024-08-02T01:49:35.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MVC21BITV01Test\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\MVC21BITV01Test\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T01:49:14.732Z",
               "EditorCaption": ""
