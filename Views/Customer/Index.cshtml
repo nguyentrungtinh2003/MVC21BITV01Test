@@ -1,0 +1,31 @@
+@model IEnumerable<MVCMidterm.Data.KhachHang>  // Model is a list of KhachHang objects
+
+@{
+    ViewData["Title"] = "Danh sách khách hàng";
+}
+
+<h2>Danh sách khách hàng</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã khách hàng</th>
+            <th>Tên công ty</th>
+            <th>Địa chỉ</th>
+            <th>Điện thoại</th>
+            <th>Thành phố</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var khachHang in Model)
+        {
+            <tr>
+                <td>@khachHang.MaKh</td>
+                <td>@khachHang.TenCty</td>
+                <td>@khachHang.DiaChi</td>
+                <td>@khachHang.DienThoai</td>
+                <td>@khachHang.ThanhPho</td>
+            </tr>
+        }
+    </tbody>
+</table>

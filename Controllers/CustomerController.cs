@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using MVCMidterm.Data;
 using MVCMidterm.Models;
 
@@ -21,18 +22,6 @@ namespace MVCMidterm.Controllers
             // Truyền dữ liệu cho view
             return View(khachHangs);
         }
-        public static class TinhThanhData
-        {
-            public static List<TinhThanh> GetTinhThanhList()
-            {
-                return new List<TinhThanh>
-        {
-            new TinhThanh { Id = 1, TenTinhThanh = "Hà Nội" },
-            new TinhThanh { Id = 2, TenTinhThanh = "Hồ Chí Minh" },
-            // ... các tỉnh thành khác
-        };
-            }
-        }
         public IActionResult Create()
         {
             return View(); // Hiển thị form Create.cshtml
@@ -45,10 +34,10 @@ namespace MVCMidterm.Controllers
             {
                 _context.Add(khachHang);
                 _context.SaveChanges();
-                return RedirectToAction("Index"); // Chuyển hướng về Index sau khi thêm mới
+                TempData["successMessage"] = "Thêm mới khách hàng thành công!";
+                return View();
             }
-            ViewBag.TinhThanhList = TinhThanhData.GetTinhThanhList();
-            return View(khachHang); // Hiển thị lại form với dữ liệu đã nhập nếu validation thất bại
+            return View(khachHang);
         }
     }
 }
