@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using MVCMidterm.Data;
-using MVCMidterm.Models;
+using MVC21BITV01Test.Data;
+using MVC21BITV01Test.Models;
 
 namespace MVCMidterm.Controllers
 {
