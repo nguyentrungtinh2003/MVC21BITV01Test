@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "tBPGxUevk3eG7nUlZ53zDmftiDW57Uf87hkn4Ru3rkY=",
-=======
-  "Hash": "42pINkUJMV9RRE07BJBS7QB9FTcWdsX/NtFjTMbwfOA=",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+  "Hash": "lkfl7YqHnReSbD+BRGSepi+vt+vUFL71bsF8iTBtmsc=",
   "Source": "MVC21BITV01Test",
   "BasePath": "_content/MVC21BITV01Test",
   "Mode": "Default",
@@ -14,28 +10,17 @@
     {
       "Name": "MVC21BITV01Test\\wwwroot",
       "Source": "MVC21BITV01Test",
-<<<<<<< HEAD
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVC21BITV01Test.styles.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVC21BITV01Test.styles.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVC21BITV01Test.styles.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "MVC21BITV01Test.styles.css",
       "AssetKind": "All",
@@ -48,23 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "D:\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVC21BITV01Test.styles.css"
+      "OriginalItemSpec": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVC21BITV01Test.styles.css"
     },
     {
-      "Identity": "D:\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC21BITV01Test.bundle.scp.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC21BITV01Test.bundle.scp.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MVC21BITV01Test.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC21BITV01Test.bundle.scp.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "MVC21BITV01Test.bundle.scp.css",
       "AssetKind": "All",
@@ -77,23 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "D:\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC21BITV01Test.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC21BITV01Test.bundle.scp.css"
     },
     {
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\css\\site.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "OriginalItemSpec": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC21BITV01Test.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\css\\site.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -109,17 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\favicon.ico",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\favicon.ico",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -135,16 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\_24116732-eec9-4c16-af03-f8b719921eff.jpg",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\_24116732-eec9-4c16-af03-f8b719921eff.jpg",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "HinhAnh/SanPham/_24116732-eec9-4c16-af03-f8b719921eff.jpg",
       "AssetKind": "All",
@@ -160,10 +112,29 @@
       "OriginalItemSpec": "wwwroot\\HinhAnh\\SanPham\\_24116732-eec9-4c16-af03-f8b719921eff.jpg"
     },
     {
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\Ảnh1.png",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\107799.png",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
+      "BasePath": "_content/MVC21BITV01Test",
+      "RelativePath": "HinhAnh/SanPham/107799.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HinhAnh\\SanPham\\107799.png"
+    },
+    {
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\Ảnh1.png",
+      "SourceId": "MVC21BITV01Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "HinhAnh/SanPham/Ảnh1.png",
       "AssetKind": "All",
@@ -179,10 +150,48 @@
       "OriginalItemSpec": "wwwroot\\HinhAnh\\SanPham\\Ảnh1.png"
     },
     {
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\Screenshot 2024-05-20 101123.png",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\delete.png",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
+      "BasePath": "_content/MVC21BITV01Test",
+      "RelativePath": "HinhAnh/SanPham/delete.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HinhAnh\\SanPham\\delete.png"
+    },
+    {
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\edit (1).png",
+      "SourceId": "MVC21BITV01Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
+      "BasePath": "_content/MVC21BITV01Test",
+      "RelativePath": "HinhAnh/SanPham/edit (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HinhAnh\\SanPham\\edit (1).png"
+    },
+    {
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\Screenshot 2024-05-20 101123.png",
+      "SourceId": "MVC21BITV01Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "HinhAnh/SanPham/Screenshot 2024-05-20 101123.png",
       "AssetKind": "All",
@@ -198,11 +207,29 @@
       "OriginalItemSpec": "wwwroot\\HinhAnh\\SanPham\\Screenshot 2024-05-20 101123.png"
     },
     {
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\HinhAnh\\SanPham\\self-removebg-preview.png",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
+      "BasePath": "_content/MVC21BITV01Test",
+      "RelativePath": "HinhAnh/SanPham/self-removebg-preview.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HinhAnh\\SanPham\\self-removebg-preview.png"
+    },
+    {
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\js\\site.js",
+      "SourceId": "MVC21BITV01Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -218,17 +245,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -244,17 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -270,17 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -296,17 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -322,17 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -348,17 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -374,17 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -400,17 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -426,17 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -452,17 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -478,17 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -504,17 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -530,17 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -556,17 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -582,17 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -608,17 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -634,17 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -660,17 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -686,17 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -712,17 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -738,17 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -764,17 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -790,17 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -816,17 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -842,17 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -868,17 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -894,17 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -920,17 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -946,17 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -972,17 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -998,17 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1024,17 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1050,17 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1076,17 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1102,17 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1128,17 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1154,17 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1180,17 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1206,17 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1232,17 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1258,17 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1284,17 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1310,17 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1336,17 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1362,17 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1388,17 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1414,17 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1440,17 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1466,17 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1492,17 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1518,17 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1544,17 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1570,17 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1596,17 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1622,17 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1648,17 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1674,17 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "MVC21BITV01Test",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MVC21BITV01Test\\wwwroot\\",
-=======
-      "Identity": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "MVC21BITV01Test",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\wwwroot\\",
->>>>>>> 1da896ce98faf14523c535864d317010638f865e
+      "ContentRoot": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\wwwroot\\",
       "BasePath": "_content/MVC21BITV01Test",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

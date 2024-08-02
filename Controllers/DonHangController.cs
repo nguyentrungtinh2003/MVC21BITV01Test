@@ -23,17 +23,32 @@ namespace MVC21BITV01Test.Controllers
                 {
                     MaHd = hd.MaHd,
                     NgayLapHd = hd.NgayLapHd,
-                    KhachHang = _context.KhachHangs.FirstOrDefault(kh => kh.MaKh == hd.MaKh).TenCty,
+                    KhachHang = _context.KhachHangs
+                        .Where(kh => kh.MaKh == hd.MaKh)
+                        .Select(kh => kh.TenCty)
+                        .FirstOrDefault() ?? "Khách hàng không xác định",
                     ChiTietHoaDons = _context.ChiTietHoaDons
                         .Where(ct => ct.MaHd == mahd)
                         .Select(ct => new ChiTietHoaDonViewModel
                         {
                             MaSp = ct.MaSp,
-                            TenSp = _context.SanPhams.FirstOrDefault(sp => sp.MaSp == ct.MaSp).TenSp,
-                            DonViTinh = _context.SanPhams.FirstOrDefault(sp => sp.MaSp == ct.MaSp).DonViTinh,
-                            DonGia = _context.SanPhams.FirstOrDefault(sp => sp.MaSp == ct.MaSp).DonGia ?? 0,
+                            TenSp = _context.SanPhams
+                                .Where(sp => sp.MaSp == ct.MaSp)
+                                .Select(sp => sp.TenSp)
+                                .FirstOrDefault() ?? "Sản phẩm không xác định",
+                            DonViTinh = _context.SanPhams
+                                .Where(sp => sp.MaSp == ct.MaSp)
+                                .Select(sp => sp.DonViTinh)
+                                .FirstOrDefault() ?? "N/A",
+                            DonGia = _context.SanPhams
+                                .Where(sp => sp.MaSp == ct.MaSp)
+                                .Select(sp => sp.DonGia)
+                                .FirstOrDefault() ?? 0,
                             SoLuong = ct.SoLuong,
-                            ThanhTien = ct.SoLuong * (_context.SanPhams.FirstOrDefault(sp => sp.MaSp == ct.MaSp).DonGia ?? 0)
+                            ThanhTien = ct.SoLuong * (_context.SanPhams
+                                .Where(sp => sp.MaSp == ct.MaSp)
+                                .Select(sp => sp.DonGia)
+                                .FirstOrDefault() ?? 0)
                         }).ToList()
                 }).FirstOrDefault();
 
@@ -45,6 +60,12 @@ namespace MVC21BITV01Test.Controllers
             hoaDon.TongTien = hoaDon.ChiTietHoaDons.Sum(ct => ct.ThanhTien);
 
             return View(hoaDon);
+        }
+
+        [HttpPost]
+        public IActionResult RedirectToDetails(int maHd)
+        {
+            return RedirectToAction("Details", new { mahd = maHd });
         }
     }
 }

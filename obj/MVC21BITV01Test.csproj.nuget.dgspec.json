@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MVC21BITV01Test\\MVC21BITV01Test.csproj": {}
+    "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\MVC21BITV01Test.csproj": {}
   },
   "projects": {
-    "D:\\MVC21BITV01Test\\MVC21BITV01Test.csproj": {
+    "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\MVC21BITV01Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MVC21BITV01Test\\MVC21BITV01Test.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\MVC21BITV01Test.csproj",
         "projectName": "MVC21BITV01Test",
-        "projectPath": "D:\\MVC21BITV01Test\\MVC21BITV01Test.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\MVC21BITV01Test\\obj\\",
+        "projectPath": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\MVC21BITV01Test.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,10 +58,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[8.0.3, )"
             }
           },
           "imports": [
@@ -83,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

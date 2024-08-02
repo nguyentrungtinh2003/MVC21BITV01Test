@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Nhập Mã Hóa Đơn";
+}
+
+<h1>Nhập Mã Hóa Đơn</h1>
+
+<form asp-controller="DonHang" asp-action="RedirectToDetails" method="post">
+    <div class="form-group">
+        <label for="maHd">Mã Hóa Đơn:</label>
+        <input type="number" class="form-control" id="maHd" name="maHd" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Xem Chi Tiết</button>
+</form>

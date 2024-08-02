@@ -1,9 +1,9 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using MVC21BITV01Test.Data;
 using MVC21BITV01Test.Models;
 
-namespace MVCMidterm.Controllers
+namespace MVC21BITV01Test.Controllers
 {
     public class CustomerController : Controller
     {
@@ -35,11 +35,10 @@ namespace MVCMidterm.Controllers
                 _context.Add(khachHang);
                 _context.SaveChanges();
                 TempData["successMessage"] = "Thêm mới khách hàng thành công!";
-                return RedirectToAction("Index");
+                return RedirectToAction("Create");
             }
-
-            // Display the view with validation errors
             return View(khachHang);
+
         }
     }
 }

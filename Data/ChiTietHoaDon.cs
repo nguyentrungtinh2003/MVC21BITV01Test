@@ -10,7 +10,5 @@ public partial class ChiTietHoaDon
     public int MaSp { get; set; }
 
     public int SoLuong { get; set; }
-
-  
-
 }
+

@@ -4,49 +4,45 @@
     ViewData["Title"] = "Danh sách sản phẩm";
 }
 
-<div class="container mt-5">
-    <h1 class="mb-4">Sản Phẩm</h1>
+<h1>Sản Phẩm</h1>
 
-    <p>
-        <a asp-action="Create" class="btn btn-primary">Tạo mới sản phẩm</a>
-    </p>
-
-    <table class="table table-striped table-bordered">
-        <thead class="thead-dark">
-            <tr>
-                <th>
-                    @Html.DisplayNameFor(model => model.TenSp)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.DonViTinh)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.DonGia)
-                </th>
-                <th>
-                    @Html.DisplayNameFor(model => model.Hinh)
-                </th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model)
-            {
-                <tr>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.TenSp)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.DonViTinh)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.DonGia)
-                    </td>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Hinh)
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
-</div>
+<p>
+    <a asp-action="Create">Tạo mới sản phẩm</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenSp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DonViTinh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DonGia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hinh)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonViTinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonGia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hinh)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
