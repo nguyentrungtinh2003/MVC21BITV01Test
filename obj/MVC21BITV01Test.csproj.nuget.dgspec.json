@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web API\\MVC21BITV01Test\\MVC21BITV01Test\\MVC21BITV01Test.csproj": {}
+    "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test.csproj": {}
   },
   "projects": {
-    "D:\\Web API\\MVC21BITV01Test\\MVC21BITV01Test\\MVC21BITV01Test.csproj": {
+    "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web API\\MVC21BITV01Test\\MVC21BITV01Test\\MVC21BITV01Test.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test.csproj",
         "projectName": "MVC21BITV01Test",
-        "projectPath": "D:\\Web API\\MVC21BITV01Test\\MVC21BITV01Test\\MVC21BITV01Test.csproj",
+        "projectPath": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\MVC21BITV01Test.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "D:\\Web API\\MVC21BITV01Test\\MVC21BITV01Test\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Downloads\\MVC21BITV01Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,6 +58,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             }
           },
           "imports": [
